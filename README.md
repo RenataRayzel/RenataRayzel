@@ -70,5 +70,3 @@ const  renatarayzel {
             src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=40:622d6a,100:51cf98&height=120&section=footer&animation=fadeIn"/>
       </a>
 </div>
-
-
