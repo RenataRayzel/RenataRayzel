@@ -18,6 +18,10 @@
             <a href="https://www.instagram.com/renatarayzel/" title="Ir para o Instagram?">
                   <img alt="Badge Instagram"
                   src="https://img.shields.io/badge/instagram-14151f?style=for-the-badge&logo=instagram"/>
+                   <a href="https://www.spotify.com/R3N4T4/" title="Ir para o Spotify?">
+                  <img alt="Badge Spotify"
+                  src="https://img.shields.io/badge/spotify-14151f?style=for-the-badge&logo=spotify"/>
+</a>
 </a>
   
 ```js
@@ -67,6 +71,6 @@ const  renatarayzel {
      <!-- RODAPÉ -->
       <a href="#none" title=" ">
             <img alt="Capsule Render" width="100%"
-            src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=40:622d6a,100:51cf98&height=120&section=footer&animation=fadeIn"/>
+            src="https://capsule-render.vercel.app/api?type=waving&fontColor=c778cf&color=6:d71fef,150:6a40da&height=120&section=footer&animation=fadeIn"/>
       </a>
 </div>
