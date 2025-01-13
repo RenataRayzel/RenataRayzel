@@ -27,11 +27,11 @@
   </div>
      
 ```JS
-const  renatarayzel {
-      name: "Renata Rayzel",
-      age: 16,
-      studyng: "Programação/ Talento Tech- Universidade De Ponta Grossa",
-      location: "Paraná, BR",
+ const  renatarayzel {
+       name: "Renata Rayzel",
+       age: 16,
+       studyng: "Programação/ Talento Tech- Universidade De Ponta Grossa",
+       location: "Paraná, BR",
  };
 ```
 
