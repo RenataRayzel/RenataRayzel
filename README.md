@@ -19,7 +19,19 @@
                   <img alt="Badge Instagram"
                   src="https://img.shields.io/badge/instagram-14151f?style=for-the-badge&logo=instagram"/>
             </a>
-            </did>
+   
                   
+ </div>
+    
+</div>
+
+```js
+const  renatarayzel {
+      name: "Renata Rayzel",
+      age: 16,
+      studyng: "Programação/ Talento Tech- Universidade De Ponta Grossa",
+      location: "Paraná, BR",
+     };
+```
 
 
