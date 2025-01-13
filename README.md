@@ -26,7 +26,6 @@
                    
   </div>
      
-              
 ```JS
 const  renatarayzel {
       name: "Renata Rayzel",
