@@ -18,26 +18,25 @@
             <a href="https://www.instagram.com/renatarayzel/" title="Ir para o Instagram?">
                   <img alt="Badge Instagram"
                   src="https://img.shields.io/badge/instagram-14151f?style=for-the-badge&logo=instagram"/>
-                   <a href="https://www.spotify.com/R3N4T4/" title="Ir para o Spotify?">
+                   <a href="[https://www.spotify.com/R3N4T4/](https://open.spotify.com/playlist/4xen2jOI667VbPoZfBNrqR?si=9f6e188613a149a0)" title="Ir para o Spotify?">
                   <img alt="Badge Spotify"
-                  src="https://img.shields.io/badge/spotify-14151f?style=for-the-badge&logo=spotify"/>
-</a>
-</a>
-  
+                  src="https://img.shields.io/badge/spotify-14151f?style=for-the-badge&logo=spotify"/></a></a>  
+
 ```js
 const  renatarayzel {
       name: "Renata Rayzel",
       age: 16,
       studyng: "Programação/ Talento Tech- Universidade De Ponta Grossa",
       location: "Paraná, BR",
-     };
+  };
 ```
+
 
 
 <!-- ESTATÍSTICAS -->
 <div align="center">
       <h2 id="statistics">
-            <em><strong>Minhas Estatísticas</strong></em>
+            <em><strong></strong></em>
             <a href="#none" title=" "><img width="20px" alt="Code" src="./assets/code.gif"/></a>
       </h2>
 
