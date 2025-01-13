@@ -22,19 +22,31 @@
                   <img alt="Badge Spotify"
                   src="https://img.shields.io/badge/spotify-14151f?style=for-the-badge&logo=spotify"/></a>
             </a>  
-            <div/>
+             <div/>
+                   
+  </div>
+      <!-- SNAKE -->
+      <div align="center">
+            <a href="#none">
+                  <img alt="Snake" title="Snake commits" 
+                  src="https://github.com/RenataRayzel/RenataRayzel/blob/output/github-contribution-grid-snake-dark.svg"/>
+            </a>
+      </div>
+      <a href="#none" title=" "><img alt="Linha RGB" width="100%" src="./assets/line-rgb-left.gif"/></a>
+</div>
 
+              
 ```JS
-  const  renatarayzel {
+const  renatarayzel {
       name: "Renata Rayzel",
       age: 16,
       studyng: "Programação/ Talento Tech- Universidade De Ponta Grossa",
       location: "Paraná, BR",
-};
+ };
 ```
 
 <!-- ESTATÍSTICAS -->
-<div align="center">
+ <div align="center">
       <h2 id="statistics">
             <em><strong></strong></em>
             <a href="#none" title=" "><img width="20px" alt="Code" src="./assets/code.gif"/></a>
