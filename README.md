@@ -18,9 +18,6 @@
             <a href="https://www.instagram.com/renatarayzel/" title="Ir para o Instagram?">
                   <img alt="Badge Instagram"
                   src="https://img.shields.io/badge/instagram-14151f?style=for-the-badge&logo=instagram"/>
-                   <a href="[https://www.spotify.com/R3N4T4/](https://open.spotify.com/playlist/4xen2jOI667VbPoZfBNrqR?si=9f6e188613a149a0)" title="Ir para o Spotify?">
-                  <img alt="Badge Spotify"
-                  src="https://img.shields.io/badge/spotify-14151f?style=for-the-badge&logo=spotify"/></a>
             </a>  
              <div/>
                    
@@ -33,8 +30,14 @@
        studyng: "Programação/ Talento Tech- Universidade De Ponta Grossa",
        location: "Paraná, BR",
  };
-```
-
+ ```
+<!-- RESUMO -->
+<div>
+      <p align="justify">
+            <em><strong>Olá, tudo bem?</strong></em><br>
+            Me chamo  <ins>Renata Rayzel</ins>, espero que esteja bem! Esse é o meu perfil do Github <strong>vou postar aqui os projetos que estou fazendo durante o curso que estudo</strong>.
+            Estou aprendendo a Programar, então com o tempo vou evoluindo. Comecei a <strong>estudar</strong> no primeiro ano do ensino médio curso profissionalizante, no segundo ano entrei no curso <strong>Talento Tech</strong> e pretento seguir estudando programação até a faculdade. Espero que goste do meu perfil!!
+      
 <!-- ESTATÍSTICAS -->
  <div align="center">
       <h2 id="statistics">
