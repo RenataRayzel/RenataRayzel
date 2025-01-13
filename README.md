@@ -29,7 +29,7 @@
       <div align="center">
             <a href="#none">
                   <img alt="Snake" title="Snake commits" 
-                  src="https://github.com/RenataRayzel/RenataRayzel/blob/output/github-contribution-grid-snake-dark.svg"/>
+                  src="https://github.com/renatarayzel/renatarayzelblob/output/github-contribution-grid-snake-dark.svg"/>
             </a>
       </div>
       <a href="#none" title=" "><img alt="Linha RGB" width="100%" src="./assets/line-rgb-left.gif"/></a>
