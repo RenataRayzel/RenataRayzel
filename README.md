@@ -26,7 +26,7 @@
 ```JS
  const  renatarayzel {
        name: "Renata Rayzel",
-       age: 16,
+       age: 17,
        studyng: "Programação/ Talento Tech- Universidade De Ponta Grossa",
        location: "Paraná, BR",
  };
